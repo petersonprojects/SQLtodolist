@@ -1,8 +1,8 @@
+
 var addButton = document.getElementById('addButton');
 var addInput = document.getElementById('itemInput');
 var todoList = document.getElementById('todoList');
 var listArray = [];
-
 
 //
 

@@ -5,6 +5,6 @@ CREATE TABLE todos(
 
 );
 
-INSERT INTO todos VALUES 
-(DEFAULT,'testing'),
-(DEFAULT,'another test');
+-- INSERT INTO todos VALUES 
+-- (DEFAULT,'testing'),
+-- (DEFAULT,'another test');
