@@ -11,6 +11,7 @@ app.use(express.static('public'));
 
 //routes
 app.use(require('./routes/index'));
+// app.use(require('./routes/api'));
 
 app.listen(3005, () => {
     console.log('Listening on port 3005');
